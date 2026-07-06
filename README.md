@@ -1,100 +1,72 @@
-# Hi there, I'm Rishabh 👋
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Web+Applications;Always+Learning+New+Things" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Rishabh+%F0%9F%91%8B;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+System+Design;Always+Learning%2C+Always+Shipping" />
 
-<p align="center">
-Full Stack Developer | Open Source Enthusiast
-</p>
+<br/>
 
----
+<a href="https://github.com/Rishabh-arc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rishabh-raj-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/rishabh_arc"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
-## 👨‍💻 About Me
-
-- 💻 I work on both **frontend and backend development**
-- 🌱 Currently learning **Full Stack Development**
-- 🔧 Interested in **Web Development and Open Source**
-- 🧠 I enjoy **solving problems and building useful applications**
-- 🌍 Based in **Pune, India**
-
-> ⚡ "Works on my machine."
+</div>
 
 ---
 
-# 🚀 Tech Stack
+## 🧑‍💻 About Me
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c" height="50"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=ts" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-<img src="https://skillicons.dev/icons?i=express" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-
-<img src="https://skillicons.dev/icons?i=postman" height="50"/>
-
-</p>
+- 🎯 Focused on becoming a **Java Backend Developer**
+- 🌱 Currently learning **Spring Boot, REST APIs & System Design**
+- 🗄️ Interested in **databases, backend architecture & microservices**
+- 🔧 I like building things that actually work under the hood
+- 📍 Based in **Pune, India**
 
 ---
 
-## 🌱 Currently Working On
+## ☕ Core Stack
 
-- Improving my **full-stack development skills**
-- Learning **better backend architecture**
-- Contributing to **open source projects**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres,mongodb,docker,git,linux,postman" height="50"/>
+</p>
+
+<details>
+<summary><b>🔧 Also familiar with</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,tailwind" height="45"/>
+</p>
+</details>
+
+---
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+| | Focus Area |
+|---|---|
+| ☕ | Java Core & OOP |
+| 🌱 | Spring Boot & REST APIs |
+| 🏗️ | Backend Architecture & Design Patterns |
+| 🐳 | Docker & Deployment |
+| 🤝 | Open Source Contributions |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rishabh-arc&show_icons=true&theme=radical" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-arc&layout=compact&theme=radical" height="170">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-arc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-arc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Rishabh-arc&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Rishabh-arc&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/Rishabh-arc  
-- LinkedIn: https://www.linkedin.com/in/rishabh-raj-/  
-- Twitter: https://x.com/rishabh_arc  
-
----
-
-## ⭐ Future Goals
-
-- Build impactful **full stack projects**
-- Contribute to **open source**
-- Improve **backend and system design skills**
-
----
-
-⚡ Building things, breaking them, and learning how they work.
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+  <i>⚡ Building things, breaking them, and figuring out why.</i>
 </p>
