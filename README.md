@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Rishabh+%F0%9F%91%8B;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+System+Design;Always+Learning%2C+Always+Shipping" />
+<h1>Hey, I'm Rishabh 👋</h1>
+<p><b>Java Backend Developer</b> · Pune, India 🇮🇳</p>
 
 <br/>
 
@@ -18,51 +19,58 @@
 - 🌱 Currently learning **Spring Boot, REST APIs & System Design**
 - 🗄️ Interested in **databases, backend architecture & microservices**
 - 🔧 I like building things that actually work under the hood
-- 📍 Based in **Pune, India**
 
 ---
 
 ## ☕ Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres,mongodb,docker,git,linux,postman" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="50" title="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=maven" height="50" title="Maven"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" height="50" title="Hibernate"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="50" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="50" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="50" title="Postman"/>
 </p>
 
 <details>
 <summary><b>🔧 Also familiar with</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,tailwind" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
 </p>
 </details>
 
 ---
 
-## 🎯 Currently Focused On
+## 🎯 Currently Learning
 
-<div align="center">
-
-| | Focus Area |
-|---|---|
-| ☕ | Java Core & OOP |
-| 🌱 | Spring Boot & REST APIs |
-| 🏗️ | Backend Architecture & Design Patterns |
-| 🐳 | Docker & Deployment |
-| 🤝 | Open Source Contributions |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_Core_%26_OOP-deepening-A78BFA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Spring_Boot_%26_REST_APIs-in_progress-6DB33F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend_Architecture-exploring-F97316?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker_%26_Deployment-getting_started-2496ED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open_Source-looking_to_start-22C55E?style=flat-square"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-arc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-arc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rishabh-arc&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh-arc&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="95%"/>
 </p>
 
 ---
